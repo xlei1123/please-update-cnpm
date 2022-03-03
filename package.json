@@ -1,0 +1,24 @@
+{
+  "name": "please-update-cnpm",
+  "version": "0.0.1",
+  "description": "更新淘宝镜像源",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": [
+    "cli.js",
+    "lib*"
+  ],
+  "keywords": [
+    "npm",
+    "tnpm"
+  ],
+  "license": "MIT",
+  "repository": "layxiang/please-update-cnpm",
+  "author": "layxiang",
+  "homepage": "https://github.com/xlei1123/please-update-cnpm",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "yargs-parser": "^21.0.1"
+  },
+  "scripts": {}
+}
