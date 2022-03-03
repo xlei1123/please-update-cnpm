@@ -4,6 +4,7 @@
 
 ## 使用
 
+
 在 `package.json` 文件的 scripts 中添加 `preinstall`：
 
 ```json
@@ -17,6 +18,7 @@
 
 当使用 `npm i` 安装依赖时，如果是旧的淘宝镜像源 提示切换。
 
+![企业微信截图_aed04f31-c5f3-4085-bebc-043376838d07](https://user-images.githubusercontent.com/17528531/156555958-34931af4-796b-4d3b-89c1-5ff14c21ce85.png)
 
 **备注**: 如果不想看到 `npx: 1 安装成功，用时 xxxx 秒`，可以使用 `--quiet` 选项(或者 `-q`):
 
